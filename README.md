@@ -18,14 +18,14 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Web capture_5-2-2023_102943_00awaudby github io](https://user-images.githubusercontent.com/84845712/216813914-1b542e12-0ea7-47f7-82ff-bcac34ee4eeb.jpeg)
+
 
 
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://00awaudby.github.io/review-carousell/)
 
 ## My process
 
@@ -40,7 +40,14 @@
 
 
 ### What I learned
-I leaned how to use javascript to build out elements and also how to select them and how to a generate a randome review.
+
+I leaned how to use javascript to build out elements.
+
+I learnt how to select elements.
+
+I learnt how to get a random review.
+
+I learnt how to get the next and the previous review.
 
 
 
@@ -48,7 +55,7 @@ I leaned how to use javascript to build out elements and also how to select them
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@00awaudby](https://www.frontendmentor.io/profile/00awaudby)
 
 
 
