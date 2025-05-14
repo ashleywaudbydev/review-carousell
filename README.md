@@ -25,7 +25,7 @@
 
 ### Links
 
-- Live Site URL: (https://00awaudby.github.io/review-carousell/)
+- Live Site URL: (https://ashleywaudbydev.github.io/review-carousell/)
 
 ## My process
 
